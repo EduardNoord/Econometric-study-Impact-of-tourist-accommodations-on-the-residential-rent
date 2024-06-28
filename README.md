@@ -1,0 +1,1 @@
+# Econometric-study.-Impact-of-the-tourist-accommodation-on-the-residential-rent
