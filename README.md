@@ -1,8 +1,4 @@
-# Econometric-study.-Impact-of-the-tourist-accommodation-on-the-residential-rent
-
-### README: Efecto de Airbnb en el precio de la vivienda - TFG Eduard Juan Noordermeer Montoya
-
-#### Title
+# Title
 The effect of Airbnb on housing prices
 
 #### Abstract
