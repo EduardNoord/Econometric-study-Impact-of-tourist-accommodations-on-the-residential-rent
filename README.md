@@ -3,10 +3,7 @@
 #### Abstract
 This study examines the correlation between housing prices and the influence of Airbnb businesses, focusing on price and quantity. Using data from 50 provinces in Spain, an econometric model via Ordinary Least Squares (OLS) is applied to determine the significant influence of these variables. Main findings show a positive correlation: higher Airbnb prices and offers are associated with higher housing prices. Specifically, an increase in housing price per square meter is estimated at €1 for every 16 new Airbnb listings and €1.3 for every euro increase in Airbnb listing prices.
 
-#### Keywords
-- Housing price
-- P2P accommodation
-- Airbnb
+![image](https://github.com/EduardNoord/Econometric-study.-Impact-of-the-tourist-accommodation-on-the-residential-rent/assets/172923744/0a1130ba-7612-4c55-ae7d-50de0514928e)
 
 #### Introduction
 The study analyzes the impact of tourism on housing prices, particularly focusing on short-term rentals like Airbnb. The research aims to assess whether the increasing trend of short-term rentals has led to higher housing prices by reducing traditional rental housing supply or changing its economic returns. The study covers 50 Spanish provinces, excluding Ceuta and Melilla due to lack of data.
