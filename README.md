@@ -1,4 +1,4 @@
-# The effect of Airbnb on housing prices
+# The effect of Airbnb on housing prices - Econometric Study
 
 #### Abstract
 This study examines the correlation between housing prices and the influence of Airbnb businesses, focusing on price and quantity. Using data from 50 provinces in Spain, an econometric model via Ordinary Least Squares (OLS) is applied to determine the significant influence of these variables. Main findings show a positive correlation: higher Airbnb prices and offers are associated with higher housing prices. Specifically, an increase in housing price per square meter is estimated at €1 for every 16 new Airbnb listings and €1.3 for every euro increase in Airbnb listing prices.
